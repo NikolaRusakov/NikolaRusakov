@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://codetrace.com/users/NikolaRusakov"><img src="https://codetrace.com/widget/NikolaRusakov" width="360" height="80" /></a>
+
+![GitHub Public stats](https://github-readme-stats.vercel.app/api?username=NikolaRusakov&show=commits,reviews,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=transparent)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaRusakov&size_weight=0.5&count_weight=0.5&langs_count=4&theme=transparent)
+
+![GitHub profile trophy](https://github-profile-trophy.vercel.app/?username=NikolaRusakov&row=1&column=5&margin-w=6)

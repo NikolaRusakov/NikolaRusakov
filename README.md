@@ -21,3 +21,18 @@ Here are some ideas to get you started:
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaRusakov&size_weight=0.5&count_weight=0.5&langs_count=4&theme=transparent)
 
 ![GitHub profile trophy](https://github-profile-trophy.vercel.app/?username=NikolaRusakov&row=1&column=5&margin-w=6)
+
+<!-- > [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions -->
